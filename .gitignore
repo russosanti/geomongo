@@ -1,0 +1,5 @@
+__pycache__
+./cache
+.vscode
+geo/data/cities.txt
+/geo/data/cities.txt
